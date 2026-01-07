@@ -19,7 +19,7 @@ Yield on Assets: To determine the interest-generating power of the bank's asset 
 NPA Ratios (Gross & Net): To quantify credit risk and the quality of the loan portfolio.
 
 🛠️ Technical Implementation
-The analysis is built using T-SQL and utilizes a modular approach with Common Table Expressions (CTEs) and temporary tables to aggregate complex data points.
+The analysis is built using T-SQL and utilizes a modular approach with Common Table Expressions (CTEs) and temporary tables to aggregate data points.
 
 Data Architecture
 The script processes data from the following relational tables in the Bank_Data database:
