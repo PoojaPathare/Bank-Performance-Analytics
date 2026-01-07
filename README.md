@@ -3,7 +3,7 @@ Banking financial metrics analysis using SQL
 Bank Financial Performance & Risk Analysis (SQL)
 Bank Financial Performance & Risk Analysis (FY2025)
 📌 Problem Statement
-Banks must continuously evaluate their financial stability and risk exposure. This project focuses on the 2025 Fiscal Year performance, analyzing the bank’s profitability and credit risk across five core domains: Loans, Deposits, Investments, Equity, and Provisions. By quantifying key financial metrics, the bank can identify trends in income generation and loan performance to drive data-backed strategic decisions.
+Banks must continuously evaluate their financial stability and risk exposure. This project focuses on the 2025 Fiscal Year performance(simulated, calendar-year based: January–December 2025), analyzing the bank’s profitability and credit risk across five core domains: Loans, Deposits, Investments, Equity, and Provisions. By quantifying key financial metrics, the bank can identify trends in income generation and loan performance to drive data-backed strategic decisions.
 
 🎯 Project Objective
 The goal is to calculate and interpret the essential Key Performance Indicators (KPIs) defining bank success for the year 2025:
